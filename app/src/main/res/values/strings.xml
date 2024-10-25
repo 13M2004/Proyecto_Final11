@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proyecto_Final</string>
+    <string name="btn_pedir">Pedir</string>
+    <string name="btn_Listo">Listo</string>
+
+    <string name="textTitulo">MENÚ</string>
+    <string name="textSubtitulo">Tipos de Hamburguesas</string>
+</resources>
+
+
+
